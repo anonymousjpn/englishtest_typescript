@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/englishtest_typescript/static/css/main.5bfc1b6c.css",
+    "main.js": "/englishtest_typescript/static/js/main.df898023.js",
+    "static/media/cefrexpand.png": "/englishtest_typescript/static/media/cefrexpand.ecf915f8c537d4c6e4b4.png",
+    "static/media/cefr.png": "/englishtest_typescript/static/media/cefr.76f3efb8ec1cb05a0c87.png",
+    "static/media/englishlogo.png": "/englishtest_typescript/static/media/englishlogo.2b01b5ee37b58e575923.png",
+    "index.html": "/englishtest_typescript/index.html",
+    "main.5bfc1b6c.css.map": "/englishtest_typescript/static/css/main.5bfc1b6c.css.map",
+    "main.df898023.js.map": "/englishtest_typescript/static/js/main.df898023.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5bfc1b6c.css",
+    "static/js/main.df898023.js"
+  ]
+}
