@@ -24,7 +24,7 @@ const Home=():React.JSX.Element=>{
     const handleSearch = ():void => {
         setSearchStart(true);
         const url = `https://jisho.org/api/v1/search/words?keyword=${searchValue}`;
-        fetch('https://proxy-backend-jwde.onrender.com', {
+        fetch('https://proxy-backend-jwde.onrender.com/proxy', {
             method: 'POST',
             headers: { 'Content-Type': 'application/json' },
             body: JSON.stringify({ url: url, method: 'GET' })  // URLをボディとして送る
